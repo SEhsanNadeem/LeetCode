@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SEhsanNadeem/LeetCode/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SEhsanNadeem/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SEhsanNadeem/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
