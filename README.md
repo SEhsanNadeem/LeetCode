@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SEhsanNadeem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SEhsanNadeem/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/SEhsanNadeem/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SEhsanNadeem/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/SEhsanNadeem/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SEhsanNadeem/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SEhsanNadeem/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SEhsanNadeem/LeetCode/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SEhsanNadeem/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SEhsanNadeem/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SEhsanNadeem/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
