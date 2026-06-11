@@ -6,11 +6,7 @@ class Solution {
 
         for(Character ch:s.toCharArray())
         {
-            // if(Uch.containsKey(ch))
-            // {
                 Uch.put(ch,Uch.getOrDefault(ch,0)+1);
-            // }
-            // else
         }
 
         for(int i=0;i<s.length();i++)
