@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/SEhsanNadeem/LeetCode/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/SEhsanNadeem/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SEhsanNadeem/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SEhsanNadeem/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SEhsanNadeem/LeetCode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/SEhsanNadeem/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SEhsanNadeem/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SEhsanNadeem/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SEhsanNadeem/LeetCode/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/SEhsanNadeem/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SEhsanNadeem/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
